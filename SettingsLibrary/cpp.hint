@@ -1,0 +1,2 @@
+#define SETTINGSLIBRARY_API __declspec(dllexport)
+#define SETTINGSLIBRARY_API __declspec(dllimport)

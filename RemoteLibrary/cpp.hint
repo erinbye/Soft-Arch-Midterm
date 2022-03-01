@@ -1,0 +1,2 @@
+#define REMOTELIBRARY_API __declspec(dllexport)
+#define REMOTELIBRARY_API __declspec(dllimport)

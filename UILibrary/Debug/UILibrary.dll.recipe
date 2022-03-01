@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\erinb\source\repos\VideoPlayer\Debug\CoreLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\erinb\source\repos\VideoPlayer\Debug\EditLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\erinb\source\repos\VideoPlayer\Debug\RemoteLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\erinb\source\repos\VideoPlayer\Debug\SettingsLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\erinb\source\repos\VideoPlayer\Debug\SubtitlesLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\erinb\source\repos\VideoPlayer\Debug\VideoProcessingLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\erinb\source\repos\VideoPlayer\Debug\UILibrary.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

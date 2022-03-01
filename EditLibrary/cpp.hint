@@ -1,0 +1,2 @@
+#define EDITLIBRARY_API __declspec(dllexport)
+#define EDITLIBRARY_API __declspec(dllimport)

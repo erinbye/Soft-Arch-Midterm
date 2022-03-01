@@ -1,0 +1,2 @@
+#define SUBTITLESLIBRARY_API __declspec(dllexport)
+#define SUBTITLESLIBRARY_API __declspec(dllimport)
